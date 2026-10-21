@@ -173,7 +173,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #d4d0d0;
 }
 
 body.is-preload *,
@@ -220,7 +220,7 @@ a {
 
 a:hover {
   border-bottom-color: transparent;
-  color: #b8947c !important;
+  color: #4b4948 !important;
 }
 
 strong,
@@ -1861,7 +1861,7 @@ article.special {
 }
 
 header p {
-  color: #aaa;
+  color: #0a0a0a;
   position: relative;
   margin: 0 0 1.6875em 0;
 }
@@ -2972,7 +2972,7 @@ input[type="button"]:disabled,
 }
 
 #footer .copyright li {
-  border-left: solid 1px #d4d4d4;
+  border-left: solid 1px #030303;
   display: inline-block;
   font-size: 0.8em;
   margin-left: 1em;
