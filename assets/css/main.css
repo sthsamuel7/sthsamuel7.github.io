@@ -142,7 +142,7 @@ body {
 }
 
 mark {
-  background-color: transparent;
+  background-color: lightgrey;
   color: inherit;
 }
 
@@ -194,7 +194,7 @@ input,
 select,
 textarea {
   color: #888;
-  font-family: "Lato", sans-serif;
+  font-family: "Times New Roman", serif;
   font-size: 16pt;
   font-weight: 400;
   line-height: 1.75em;
@@ -1892,7 +1892,7 @@ header.major h2 {
 }
 
 header.major h2 + p {
-  color: #777;
+  color: #161616;
   font-size: 1.75em;
   font-weight: 700;
   margin-top: -0.75em;
@@ -3202,7 +3202,7 @@ input[type="button"]:disabled,
   }
 
   #titleBar .toggle:before {
-    background: #b8947c;
+    background: #8b8987;
     color: #ffffff;
     content: "\f0c9";
     display: block;
